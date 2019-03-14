@@ -1,3 +1,5 @@
 # python_development
-framework: django
-localhost:8000
+framework: django  
+`docker-compose up -d`  
+localhost:8000  
+
