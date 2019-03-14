@@ -1,2 +1,3 @@
 # python_development
-django開発環境
+framework: django
+localhost:8000
